@@ -1,4 +1,4 @@
-I didn't upload the <node_modules/> folder, so, if you wanna use this project and work with it properly, don't forget to use the npm command: npm install
+don't forget to use the npm command: npm install
 
 but now 16 may 2026, there are some problems in the backend and API, so, if you found an Error (in registration or log-in for example), 
 see it from the inspect and check the network tab, or check the error from postman responses 
